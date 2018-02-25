@@ -1,0 +1,13 @@
+{
+  "name": "@mz/cwp-22-1",
+  "version": "0.0.1",
+  "description": "package for cwp-22",
+  "main": "index.js",
+  "repository" :
+  { 
+    "type" : "git", 
+    "url" : "https://github.com/MisyuchenkoZhenya/cwp-22-1.git"
+  },
+  "author": "MZ",
+  "license": "ISC"
+}
